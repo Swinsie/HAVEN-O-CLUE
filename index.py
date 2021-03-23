@@ -1,4 +1,5 @@
-# Written by Swinsor - you may edit and use this code, you may not under any circumstance redistribute the code or entites of the game. Please see the licencing.
+# Written by Swinsor - you may edit and use this code, you may not redistribute the game or the entities of this project without modification and attribution to the source.
+# Please see the licencing.
 
 
 # Module Importation
