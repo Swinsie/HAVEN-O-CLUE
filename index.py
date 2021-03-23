@@ -3,10 +3,15 @@ import random
 import sys
 from time import sleep
 
-skills = ['complaining','complaining that dave broke the code when you know you broke it','cooking super noodles']
+
+
+skillset = ['complaining','complaining that dave broke the code when you know you broke it while trying to "test" it','cooking super noodles']
 budget = 100000
 popularity = 0
 pclifespan = 0
+
+
+
 time.sleep(1)
 words = "So, you've been hired for a job you don't have the qualifications for. \nYou're now a project manager for a team of 4 programmers. You must maintain the budget and also gain popularity within the team. \nYou don't have a scooby-do what they're doing since you only watched the first 10 minutes of the Matrix. \nYour mission is to safely and steadily lead the project until final release, goodluck, unworthy staff member."
 for char in words:
